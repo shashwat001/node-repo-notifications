@@ -1,0 +1,14 @@
+{
+  "name": "node-js-notifier",
+  "version": "0.1.0",
+  "description": "A Node.js app For notifications",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "node-notifier": ""
+  },
+  "author": "Shashwat kumar",
+  "license": "MIT"
+}
